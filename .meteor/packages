@@ -12,3 +12,4 @@ iron:router
 meteoric:ionic
 sacha:spin
 twbs:bootstrap
+d3js:d3
